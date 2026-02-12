@@ -1,6 +1,6 @@
 Bidirectional regulation of social memory by two distinct types of GABAergic neurons in the lateral septum
 Overview
-This repository provides the analysis scripts and preprocessed data for the study.
+This repository provides the analysis scripts and metadata for the study.
 Authors and Affiliations
 Li Zhang1,2,#, Mengbing Huang1,2,#, Chao-Liang Ye1,2,#, Zhiwei Tang1,2, Mingrui Xu3,4, Yuan Wang1,2, Ting Wang5, Shu Luo1,2, Rui Ji1,2, Chang Yu1,2, Hongyan Luo1,2, Peng Cao6, Qing-Feng Wu5, Man Jiang1,2,7,8*
 
@@ -19,4 +19,4 @@ Analysis
 Contains all scripts used to process single-nucleus RNA-seq .
 
 Data
-Contains the preprocessed datasets of single-nucleus RNA-seq.
+Contains the metadata of single-nucleus RNA-seq.
